@@ -1,0 +1,17 @@
+{
+  "eligible_rows": 86560,
+  "train_rows": 75670,
+  "test_rows": 10890,
+  "train_clients": 29,
+  "test_clients": 8,
+  "base_rate": 0.29054178145087234,
+  "model_precision_at_10": 0.7,
+  "baseline_precision_at_10": 0.8,
+  "model_precision_at_50": 0.76,
+  "baseline_precision_at_50": 0.8,
+  "model_average_precision": 0.5705530944912487,
+  "baseline_average_precision": 0.5476148963455494,
+  "model_roc_auc": 0.8193011889844102,
+  "baseline_roc_auc": 0.7686810515202578,
+  "relative_precision_at_10_difference": -0.1250000000000001
+}
